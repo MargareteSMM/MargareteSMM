@@ -1,16 +1,14 @@
 ## Olá!! Eu sou Margarete Macedo!! 👋
 
-Tudo começou com palavras. Antes mesmo de terminar a graduação, eu já estava diante de uma sala de aula, na Escola Normal de Ceilândia, aprendendo que ensinar é, acima de tudo, um exercício de escuta, atenção e transformação. Foi nesse ambiente que compreendi que a educação vai além da transmissão de conteúdo: ela também envolve acolhimento, reflexão e construção de sentido.
+Tudo começou com palavras. Antes mesmo de terminar a graduação, eu já estava diante de uma sala de aula, na Escola Normal de Ceilândia, aprendendo que ensinar é, acima de tudo, um exercício de escuta. Depois vieram os Estudos Adicionais em Comunicação e Expressão, no Centro Educacional de Niterói, e a certeza de que eu queria dedicar minha vida a entender como as pessoas se comunicam — e como a linguagem pode aproximar ou afastar.
 
-Depois vieram os Estudos Adicionais em Comunicação e Expressão, no Centro Educacional de Niterói, e a certeza de que eu queria dedicar minha vida ao estudo da linguagem e da comunicação — compreender como as pessoas se expressam, como se conectam e como a clareza pode aproximar pessoas e ideias.
+Graduei-me em Letras — Língua Portuguesa e Literaturas pela Universidade Católica de Brasília, segui para uma pós-graduação em Língua Portuguesa pela Universidade Salgado de Oliveira, e por anos vivi a educação de dentro, atuando na Secretaria de Estado de Educação do Distrito Federal (SEEDF). Foram anos de sala de aula, planejamento, criatividade e, sobretudo, de aprender a enxergar cada pessoa em sua singularidade — o que ela precisa, como ela entende, o que a faz avançar.
 
-Graduei-me em Letras — Língua Portuguesa e Literaturas pela Universidade Católica de Brasília, concluí minha pós-graduação em Língua Portuguesa pela Universidade Salgado de Oliveira e, ao longo dos anos, vivi a educação de dentro, atuando na Secretaria de Estado de Educação do Distrito Federal (SEEDF). Foram anos de sala de aula, planejamento, criatividade e, sobretudo, de aprender a reconhecer a singularidade de cada pessoa — suas necessidades, experiências e formas de compreender o mundo.
+Em algum momento, percebi que essas mesmas perguntas — como as pessoas entendem, como se sentem acolhidas, como algo se torna intuitivo — também estavam no centro de um universo que eu vinha observando de longe: o da tecnologia. E decidi atravessar essa ponte.
 
-Em algum momento, percebi que essas mesmas questões — como as pessoas entendem, como se sentem acolhidas e como algo se torna intuitivo — também estavam presentes em um campo que eu vinha observando com curiosidade: a tecnologia. Foi aí que decidi cruzar essa ponte e começar a explorar novas formas de criar.
+Hoje, estou cursando UI/UX Design pela Alura, mergulhando em experiência do usuário, interface, design digital, pesquisa, prototipação e ferramentas como o Figma. Não estou abandonando quem eu fui — estou traduzindo décadas de escuta, linguagem e educação para uma nova forma de criar: telas, fluxos e interfaces que também ensinam, acolhem e fazem sentido para quem está do outro lado.
 
-Hoje, estou cursando UI/UX Design pela Alura, aprofundando-me em experiência do usuário, interface, design digital, pesquisa, prototipação e ferramentas como o Figma. Não estou abandonando a minha trajetória anterior — estou transformando anos de escuta, linguagem e educação em uma nova forma de criação, com foco em soluções digitais que também ensinam, acolhem e fazem sentido para quem as utiliza.
-
-🚀 Hoje, meu caminho é a interseção entre educação, comunicação, criatividade, design e tecnologia — porque acredito que a melhor tecnologia é aquela que nunca esquece que existe uma pessoa do outro lado da tela.
+🚀 Hoje, meu caminho é essa interseção: educação, comunicação, criatividade, design e tecnologia caminhando juntos — porque acredito que a melhor tecnologia é aquela que nunca esquece que existe uma pessoa do outro lado da tela.
 
 I 💜 Code! Code is Poetry! 
 
