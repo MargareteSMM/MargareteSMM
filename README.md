@@ -20,13 +20,13 @@ I 💜 Code! Code is Poetry!
 
 <p align="left">Linguagens e tecnologias que estou estudando e usando atualmente no meu dia dia!!</p>
 
-<p align="left"> <a href="https://github.com/MargareteSM" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub"></a> <a href="https://discord.gg/w9KmVbSTWp" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <a href="mailto:meg@margarete.net.br" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> </p>
+<p align="left"> <a href="https://github.com/MargareteSMM" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub"></a> <a href="https://discord.gg/w9KmVbSTWp" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <a href="mailto:meg@margarete.net.br" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> </p>
 
 <p align="left">
 
 <p align="left">
-  <a href="https://github.com/MargareteSM">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,wordpress,vscode,git,github,gitlab" />
+  <a href="https://github.com/MargareteSMM">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,wordpress,vscode,git,github,gitlab,lovable" />
   </a>
 </p>
 
